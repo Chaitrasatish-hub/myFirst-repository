@@ -1,3 +1,3 @@
-# myFirst-repository
+# myFirstRepository
 This is my first GIT Repository <br>
 Author - CHAITRA.S
